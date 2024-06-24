@@ -1,0 +1,1 @@
+These systemd unit files are for getting Plex running as a rootless container with Podman. For more info, read this [blog entry on how it works](https://myee111.github.io/posts/plex/).
